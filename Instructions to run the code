@@ -1,0 +1,5 @@
+1) Run the code corresponding to which ever cipher you wanna use
+2) For encrypting a word please call the encrypt fuction by giving the word you want to encrypt as argument to the fuction
+3) The cipher text will be displayed
+4) For decrypting the cipher text, call the decrypt function by giving the cipher text as argumentto the fuction.
+5) In case of vegenere cipher a key also have to be given as argument.
